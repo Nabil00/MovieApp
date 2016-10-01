@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_top_rate"
+        android:title="Top Rated"/>
+    <item android:id="@+id/menu_most_pop"
+        android:title="Most Popular"/>
+    <item android:id="@+id/nxt"
+        android:title="More results"/>
+    <item android:id="@+id/fav"
+        android:title="Favorites"/>
+
+</menu>
